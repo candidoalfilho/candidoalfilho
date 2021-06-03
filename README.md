@@ -12,7 +12,7 @@
 ## Connect with me:
 
  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/candidoalfilho)](https://github.com/candidoalfilho)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/candidoalfilho/)](https://www.linkedin.com/in/candidoalfilho/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/candidoalfilho/)](https://www.linkedin.com/in/candidoalfredocl/)
 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/candidoalfilho/count.svg" />
