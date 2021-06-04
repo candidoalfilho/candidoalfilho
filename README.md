@@ -1,7 +1,7 @@
 ### Hi, I'm Cândido Alfredo Carvalho de Lucena Filho <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## About me
-- 🧑‍💻   I am currently majoring Civil Engineering on UFPB and Information Systems on FIAP
-- 🧑‍🔬   Since March 2021, I am an Undergraduate Student Researcher on TAIL
+- 🧑‍💻   I am currently majoring Civil Engineering at UFPB and Information Systems at FIAP
+- 🧑‍🔬   Since March 2021, I am an Undergraduate Student Researcher at TAIL
 - 📱      I look forward to collaborate with projects on App Development, UX and UI
 
 <h3 align="center">Languages and Tools:</h3>
