@@ -1,7 +1,7 @@
 ### Hi, I'm Cândido Alfredo Carvalho de Lucena Filho <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## About me
-- 🧑‍💻   I am a Civil Engineer and Systems analyst in Brazil. I like to find solutions to everyday challenges using technology and mathematics, my main goal is to develop great projects that will foster inovation and help many people around the world. 
-- 🧑‍🔬   I am currently working as a Software Engineer at iGlu. 
+- 🧑‍💻   I am a Software Engineer in Brazil, currently pursuing my Masters Degree at USP. I like to find solutions to everyday challenges using technology and mathematics, my main goal is to develop great projects that will foster inovation and help many people around the world. 
+- 🧑‍🔬   I am currently working as a Software Engineer at Telepatia. 
 - 📱      I look forward to collaborate with projects on Software Engineering, specifically with Mobile Development.
 
 <h3 align="center">Languages and Tools:</h3>
